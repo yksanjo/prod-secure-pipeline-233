@@ -1,0 +1,24 @@
+{
+  "name": "prod-secure-pipeline-233",
+  "version": "1.0.0",
+  "description": "🗄️ Deep Watcher for storage",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "storage",
+    "go",
+    "ai",
+    "infrastructure"
+  ],
+  "author": "yksanjo",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/prod-secure-pipeline-233.git"
+  }
+}
